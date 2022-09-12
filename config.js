@@ -24,7 +24,7 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.neoxr.eu.org': 'yntkts',
-  'https://api.xteam.xyz': 'apikeyaine',
+  'https://api.xteam.xyz': 'pikeytod',
   'https://melcanz.com': 'elaina',
   'https://api.lolhuman.xyz': 'apikeyaine',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
