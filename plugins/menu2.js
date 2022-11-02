@@ -52,7 +52,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) =>�
   handler.help = ['menu2'] 
   handler.tags = ['main']  
   handler.command = /^(menu2)$/i  
-    
+  handler.register = true  
   module.exports = handler 
   
  function clockString(ms) { 
